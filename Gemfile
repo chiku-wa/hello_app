@@ -46,6 +46,10 @@ group :development do
   gem 'spring-watcher-listen', '2.0.1'
 end
 
+group :production do
+  gem 'pg', '0.20.0'
+end
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
