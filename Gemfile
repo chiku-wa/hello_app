@@ -29,7 +29,7 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks', '5.0.1'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-gem 'jbuilder', '2.6.4'
+gem 'jbuilder', '2.7.0'
 
 # sqlite3 and byebug is use only test and development
 group :development, :test do
